@@ -1,3 +1,3 @@
 # worksplit
-worksplit for rust task
+## run example
 cargo run
